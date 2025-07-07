@@ -1,0 +1,23 @@
+# 🛑 Sensitive Environment Files
+.env
+
+# ⚙️ Node Modules (dependencies folder)
+node_modules/
+
+# 📦 Log files
+*.log
+
+# 💣 System files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# 🛠 Editor folders (VS Code, JetBrains etc.)
+.vscode/
+.idea/
+
+# 🧪 Coverage / test results (if using Jest etc.)
+coverage/
+
+# 💻 Build files (in case of transpilation or TS)
+dist/
+build/
