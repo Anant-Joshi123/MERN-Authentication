@@ -53,6 +53,12 @@ mern-authentication/
 
 ---
 
+## 📽️ Demo Video
+
+🎬 You can download and view the demo video here:  
+👉 [View Demo via GitHub Release](https://github.com/Anant-Joshi123/MERN-Authentication/releases/download/v1.0.0/Vite.+.React.-.Google.Chrome.2025-07-08.00-03-29.mp4)
+
+
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the repository
